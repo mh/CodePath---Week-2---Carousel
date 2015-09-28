@@ -53,6 +53,6 @@ Optional: Learn more about Carousel
 + *[ ] Optional: Upon completion of the events, mark them green.
 + *[ ] Optional: When all events are completed, dismiss the banner.
 
-![Video Walkthrough](carousel-mh.gif)
+![Video Walkthrough](mh-carousel.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
