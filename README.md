@@ -7,7 +7,7 @@ This is the CodePath for iOS Designers course, weeek 2 assignment for the Carous
 ## Completed User Stories
 
 + *[x] Static photo tiles on the initial screen
-+ *[] Optional: Photo tiles move with scrolling
++ *[ ] Optional: Photo tiles move with scrolling
 
 Sign In
 
@@ -18,12 +18,12 @@ Sign In
 + *[x] User sees an error alert when entering the wrong email/password combination.
 + *[x]  User is taken to the tutorial screens upon entering the correct email/password combination.
 + *[ ] Optional: When the keyboard is visible, if the user pulls down on the scrollview, it will dismiss the keyboard.
-+ *[ ]Optional: On appear, scale the form up and fade it in.
-+ *[ ]Optional: Sign Up
-+ *[ ]Optional: Tapping in the form reveals the keyboard and shifts the scrollview and "Create a Dropbox" button up.
-+ *[ ]Optional: Tapping the Agree to Terms checkbox selects the checkbox.
-+ *[ ]Optional: Tapping on Terms shows a webview with the terms.
-+ *[ ]Optional: User is taken to the tutorial screens upon tapping the "Create a Dropbox" button.
++ *[ ] Optional: On appear, scale the form up and fade it in.
++ *[ ] Optional: Sign Up
++ *[ ] Optional: Tapping in the form reveals the keyboard and shifts the scrollview and "Create a Dropbox" button up.
++ *[ ] Optional: Tapping the Agree to Terms checkbox selects the checkbox.
++ *[ ] Optional: Tapping on Terms shows a webview with the terms.
++ *[ ] Optional: User is taken to the tutorial screens upon tapping the "Create a Dropbox" button.
 
 Tutorial Screens
 
@@ -47,11 +47,11 @@ Optional: Learn more about Carousel
 + *[ ] Optional: Show the "Learn more about Carousel" button in the photo timeline.
 + *[ ] Optional: Tap the X to dismiss the banner
 + *[ ] Optional: Track the 3 events:
-+ *[ ]View a photo full screen
-+ *[ ]Swipe left and right
-+ *[ ]Share a photo
-+ *[ ]Optional: Upon completion of the events, mark them green.
-+ *[ ]Optional: When all events are completed, dismiss the banner.
++ *[ ] Optional: View a photo full screen
++ *[ ] Optional: Swipe left and right
++ *[ ] Optional: Share a photo
++ *[ ] Optional: Upon completion of the events, mark them green.
++ *[ ] Optional: When all events are completed, dismiss the banner.
 
 ![Video Walkthrough](carousel-mh.gif)
 
