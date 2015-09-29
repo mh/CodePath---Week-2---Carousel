@@ -17,7 +17,7 @@ Sign In
 + *[x] alertController.dismissViewControllerAnimated(true, completion: nil) dismisses the alert controller loading screen with no buttons.
 + *[x] User sees an error alert when entering the wrong email/password combination.
 + *[x]  User is taken to the tutorial screens upon entering the correct email/password combination.
-+ *[ ] Optional: When the keyboard is visible, if the user pulls down on the scrollview, it will dismiss the keyboard.
++ *[x] Optional: When the keyboard is visible, if the user pulls down on the scrollview, it will dismiss the keyboard.
 + *[ ] Optional: On appear, scale the form up and fade it in.
 + *[ ] Optional: Sign Up
 + *[ ] Optional: Tapping in the form reveals the keyboard and shifts the scrollview and "Create a Dropbox" button up.
@@ -28,8 +28,8 @@ Sign In
 Tutorial Screens
 
 + *[x] User can page between the screens
-+ *[ ] Optional: User can page between the screens with updated dots
-+ *[ ] Optional: Upon reaching the 4th page, hide the dots and show the "Take Carousel for a Spin" button.
++ *[x] Optional: User can page between the screens with updated dots
++ *[x] Optional: Upon reaching the 4th page, hide the dots and show the "Take Carousel for a Spin" button.
 
 Image Timeline
 
