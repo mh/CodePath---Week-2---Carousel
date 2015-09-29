@@ -2,7 +2,7 @@
 
 This is the CodePath for iOS Designers course, weeek 2 assignment for the Carousel application. Apply for the iOS for Designers CodePath course here: http://codepath.com/iosfordesigners.
 
-+ Time Spent: 8 hours
++ Time Spent: 9 hours
 
 ## Completed User Stories
 
